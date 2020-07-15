@@ -1,0 +1,14 @@
+<messages id="501">
+  <note id="501" auto="opel">
+    <to>Tove</to>
+    <from>Jani</from>
+    <heading>Reminder</heading>
+    <body>Don't forget me this weekend!</body>
+  </note>
+  <note id="502" >
+    <to>Jani</to>
+    <from>Tove</from>
+    <heading>Re:Reminder</heading>
+    <body>I will not</body>
+  </note>
+</messages>
